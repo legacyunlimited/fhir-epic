@@ -1,0 +1,9 @@
+.Header{
+    background-color: #1b2258;
+}
+.nav-link{
+    color: white !important;
+}
+.active{
+    color: #9eb9eb !important;
+}

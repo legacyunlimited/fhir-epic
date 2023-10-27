@@ -1,0 +1,24 @@
+#hero-pic{
+    transition: 0.5s;
+}
+#hero-pic:hover{
+    filter: invert(100%);
+}
+.back-video{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+/*@media (min-aspect-ration: 16/9){
+    .back-video{
+        width: 100%;
+        height: auto;
+    }
+}
+@media (max-aspect-ration: 16/9){
+    .back-video{
+        width: auto;
+        height: 100%;
+    }
+}*/
